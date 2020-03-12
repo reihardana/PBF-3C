@@ -1,0 +1,49 @@
+.text-h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.card{
+    text-align: center;
+    padding-top: 20px;
+    margin: 0 auto;
+    float: none;
+    width: 350px;
+    padding-bottom: 20px;
+}
+.text-h2{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.tbl{
+    margin: auto;
+}
+.label-form{
+    margin: 0;
+    font-weight: bold;
+}
+.btn-login{
+    color: white;
+    margin-top: 30px;
+    width: 300px;
+    height: 50px;
+    background-color: green;
+    border: none;
+}
+
+.btn-cancel{
+    border: none;
+    color: white;
+    width: 100px;
+    height: 40px;
+    background-color: red;
+}
+#remember{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.input{
+    margin-left: auto;
+    width: 300px;
+    text-align: center;
+}

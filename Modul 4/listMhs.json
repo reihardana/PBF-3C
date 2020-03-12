@@ -1,0 +1,28 @@
+{
+  "mhs": [
+    {
+      "userId": 1,
+      "nim": "1741720002",
+      "nama": "Java Script",
+      "alamat": "Java",
+      "hp": "08123456",
+      "angkatan": "2016",
+      "status": "Aktif",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "nim": "1741720009",
+      "nama": "Reinaldo Hardana",
+      "alamat": "Karangploso",
+      "hp": "0895399374467",
+      "angkatan": "2017",
+      "status": "Aktif",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
